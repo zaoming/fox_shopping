@@ -1,0 +1,1 @@
+var jsYb={json:[{Id:"161700",Name:"延保通 手机 保修二年 特有多项意外保障",Price:"369.00",HName:"extend/mobile.aspx",Message:"",Type:"0"},{Id:"296826",Name:"延保通 手机 保修一年  特有多项额外保障",Price:"279.00",HName:"extend/mobile1.aspx",Message:"",Type:"0"}]};fq_showYb_html(jsYb);

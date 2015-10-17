@@ -1,0 +1,218 @@
+/*publish time:2012-02-21 14:33*/
+.w{zoom:1}
+.w:after{content:'\20';display:block;clear:both}
+a:link,a:visited{color:#666;}
+a:hover{color:#c00;}
+.da0x85{height:85px;background:#f5f5f5;}
+.da210x85{width:210px;height:85px;background:#f5f5f5;}
+/*sortlist*/
+#sortlist .mt{width:210px;height:34px;background:#E20F0D url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px 0;}
+#sortlist h2{text-indent:15px;line-height:34px;color:#fff;}
+#sortlist .mc{width:200px;border-right:5px solid #EE9614;border-left:5px solid #E20F0D;background:#fff;}
+#sortlist ul{width:184px;padding-left:8px;overflow:hidden;}
+#sortlist li{float:left;width:184px;height:62px;overflow:hidden;padding:5px 0;/*+padding:2px 0px;_padding:4px 0px 0px;*/border-top:1px dotted #CBCBCB;zoom:1;}
+#sortlist li.fore{border:none;}
+#sortlist li:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+#sortlist dl{color:#666;zoom:1;overflow:hidden;}
+#sortlist dt{overflow:hedden;float:left;width:40px;margin-right:4px;line-height:20px;text-align:center;font-family:"Î¢ÈíÑÅºÚ";font-weight:bold;}
+#sortlist dt a{display:block;padding-top:38px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat;color:#666;}
+#sortlist dt a:hover{cursor:pointer;}
+#sortlist dt a.ico0{background-position:3px 5px;}
+#sortlist dt a.ico1{background-position:2px -58px;}
+#sortlist dt a.ico2{background-position:2px -120px;}
+#sortlist dt a.ico3{background-position:1px -185px;}
+#sortlist dt a.ico4{background-position:1px -248px;}
+#sortlist dt a.ico7{background-position:1px -365px;}
+#sortlist dt a.ico5{background:url(http://misc.360buyimg.com/product/skin/2011/i/20120424B.jpg) no-repeat 0 0;}
+#sortlist dt a.ico6{background:url(http://misc.360buyimg.com/product/skin/2011/i/20120424B.jpg) no-repeat 0 -60px;}
+#sortlist dd{overflow-x:hidden;float:left;width:140px;padding-top:3px;zoom:1}
+#sortlist dd a:link,#sortlist dd a:visited{display:inline-block;height:1em;_height:1.2em;margin:4px 0px 4px -1px;_margin:3px 0px 2px -1px;padding:0px 9px;border-left:1px solid #D2D2D2;line-height:1.1em;+line-height:1.2em;_line-height:1.2em;color:#666;overflow:hidden}
+#sortlist dd a.bg-no:link,#sortlist dd a.bg-no:visited{border-left:0px;}
+#sortlist .mb{width:210px;height:5px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -35px;font-size:0px;}
+/*hottop*/
+#hottop .mt{width:210px;height:28px;background:#F1F1F1 url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -41px;line-height:28px;text-indent:11px;color:#333;}
+#hottop .mc{width:208px;height:290px;border:1px solid #D8D8D8;border-top:none;border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;background:#fff;}
+#hottop li{float:left;width:197px;padding:5px 5px 5px;border-top:1px solid #efefef;overflow:hidden;height:20px;line-height:20px;}
+#hottop span{float:left;width:12px;height:12px;margin:4px 5px 0 4px;font:normal 9px/12px arial;text-align:center;color:#fff;}
+#hottop span.bg1,#hottop span.bg2,#hottop span.bg3{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -22px -438px;}
+#hottop span.bg4,#hottop span.bg5,#hottop span.bg6,#hottop span.bg7,#hottop span.bg8{background:#636162;}
+#hottop .p-img{float:left;margin-right:5px;display:none;}
+#hottop .p-name{overflow:hidden;float:left;width:176px;height:22px;color:#666;}
+#hottop .p-price{float:left;height:18px;margin-top:2px;line-height:18px;display:none;}
+#hottop .fore{padding:5px 5px 10px;height:54px;}
+#hottop .fore .p-img{display:block;}
+#hottop .fore .p-name{width:120px;height:3em;line-height:1.5em;}
+#hottop .fore .p-price{display:block;font-weight:bold;color:#EF0000;}
+/*slide*/
+#slide{position:relative;width:550px;height:240px;margin-bottom:10px;background:url(http://misc.360buyimg.com/201007/skin/df/i/loading.gif) #f5f5f5 no-repeat center 50%;overflow:hidden;}
+#slide ul{position:absolute;top:0;left:0;width:770px;height:240px;}
+#slide li{float:left;width:770px;height:240px;overflow:hidden;}
+#slide div{position:absolute;float:right;bottom:4px;right:4px;height:20px;overflow:hidden;zoom:1;}
+#slide span{width:14px;height:14px;border:1px solid #D00000;margin:2px 2px;background:#fff;float:left;text-align:center;line-height:14px;cursor:pointer;font-family:arial;}
+#slide .curr{width:18px;height:18px;margin:0 2px;background:#F00;border:1px solid #D00000;line-height:18px;}
+#slide span a:link,#slide span a:visited{text-decoration:none;color:#D00000;font-size:11px;}
+#slide .curr a:link,#slide .curr a:visited{color:#fff;font-weight:bold;font-size:12px;}
+/*report*/
+#report .mt{width:210px;height:28px;background:#F1F1F1 url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -41px;line-height:28px;text-indent:11px;color:#333;}
+#report .mc{width:208px;height:200px;padding:7px 0px 4px;border:1px solid #D8D8D8;border-top:none;border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;background:#fff;}
+#report li{overflow:hidden;height:24px;padding:0px 5px;line-height:24px;}
+/*limit*/
+#limit .mt{width:210px;height:28px;background:#F1F1F1 url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -41px;line-height:28px;text-indent:11px;color:#333;}
+#limit .mc{position:relative;width:160px;height:238px;padding:10px 24px 0;border:1px solid #D8D8D8;border-top:none;border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;background:#fff;}
+#limit ul{/*width:1000px;*/}
+#limit li{float:left;position:relative;width:160px;padding-right:20px;text-align:center;}
+#limit .p-name{height:3em;word-wrap:break-word;text-align:left;}
+#limit .p-img img{width:160px;height:160px;}
+#limit .p-price{text-align:left;}
+#to-l,#to-r{position:absolute;top:140px;z-index:2;cursor:pointer;width:16px;height:18px;}
+#to-l{left:8px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -212px -435px;}
+#to-r{right:8px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -230px -435px;}
+/*promotion*/
+.pt1,.pt2,.pt3,.pt4{display:inline-block;width:28px;height:16px;margin:0 2px;overflow:hidden;background-image:url(../../../misc/skin/2011/i/icon_promotion.gif);background-repeat:no-repeat;line-height:100px;font-size:0;margin-bottom:-3px;*margin-bottom:12px;}
+.pt1{background-position:-71px -180px;}
+.pt2{background-position:-100px -180px;}
+.pt3{background-position:-42px -180px;}
+.pt4{background-position:0 -180px;width:41px;}
+.pi1,.pi2,.pi3,.pi4,.pi5,.pi6,.pi7,.pi8,.pi9,.pi10{position:absolute;width:54px;height:60px;top:0;right:20px;background-image:url("http://misc.360buyimg.com/201007/skin/df/i/icon_promotion.png");background-repeat:no-repeat;}
+.pi1{background-position:0 0;}
+.pi2{background-position:-54px 0;}
+.pi3{background-position:-108px 0;}
+.pi4{background-position:0 -60px;}
+.pi5{background-position:-54px -60px;}
+.pi6{background-position:-108px -60px;}
+.pi7{background-position:0 -120px;}
+.pi8{background-position:-54px -120px;}
+.pi9{background-position:-162px 0;}
+.pi10{background-position:-162px -60px;}
+/*bargain*/
+#bargain{width:550px;}
+#bargain .mt{position:relative;height:28px;background:#F1F1F1 url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) repeat-x 0 -487px;line-height:28px;}
+#bargain h2{position:absolute;z-index:2;overflow:hidden;float:left;width:110px;height:28px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -70px;line-height:28px;text-indent:1.9em;font-size:14px;color:#fff;}
+#bargain .mt span{display:block;overflow:hidden;float:right;width:2px;height:28px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -256px -41px;font-size:0px;}
+#bargain .tab{overflow:hidden;float:right;width:385px;height:28px;}
+#bargain .tab li{float:left;position:relative;z-index:1;width:47px;line-height:28px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -257px -70px;text-align:center;}
+#bargain .tab li a.fore:link,#bargain .tab li a.fore:visited{border:none;}
+#bargain .tab li.curr{right:-1px;z-index:2;cursor:pointer;width:47px;height:28px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -430px;font-weight:bold;color:#E20004;}
+#bargain .tab li a:link,#bargain .tab li a:visited{display:block;width:47px;margin:8px 0px;border-left:1px solid #D2D2D2;line-height:1.2;}
+#bargain .tab li a:hover{cursor:pointer;text-decoration:none;color:#333;}
+#bargain .tab .curr a:link,#bargain .tab .curr a:visited,#bargain .tab .curr a:hover{color:#E20004;}
+#bargain .mc{height:240px;padding-top:8px;padding-left:7px;border:1px solid #D8D8D8;border-top:none;border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;background:#fff;}
+#bargain .mc li{float:left;width:162px;height:240px;padding:0 8px;text-align:center;}
+#bargain .p-img{border:1px solid #E0E0E0;}
+#bargain .p-name{height:3em;word-wrap:break-word;text-align:left;}
+#bargain .p-price{height:22px;margin-top:5px;text-align:left;}
+/*brands*/
+#brands{position:relative;width:550px;}
+#brands .control{position:absolute;top:8px;z-index:2;cursor:pointer;width:10px;height:45px;background-image:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg);background-repeat:no-repeat;}
+#brands-left{left:0px;background-position:0px -437px;}
+#brands-right{right:0px;background-position:-11px -437px;}
+#i-brands{position:relative;height:60px;padding:0 12px;}
+#i-brands ul{overflow:hidden;}
+#i-brands li{float:left;width:165px;height:60px;padding:0px 5px;}
+#i-brands li img{border:1px solid #eee;}
+/*brand-zone*/
+#brand-zone{width:550px;}
+#brand-zone .mt{position:relative;height:28px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) repeat-x 0 -487px;}
+#brand-zone h2{width:208px;height:29px;line-height:29px;text-indent:0.8em;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -99px;line-height:29px;font-size:14px;color:#333;}
+#brand-zone .mt b{display:block;float:right;width:2px;height:29px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -256px -99px;}
+#brand-zone .mc{position:relative;height:210px;padding:8px 24px 0;border:1px solid #D8D8D8;border-top:none;border-radius:0 0 4px 4px;}
+#zone-l,#zone-r{display:block;position:absolute;z-index:2;cursor:pointer;width:15px;height:25px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat;}
+#zone-l{right:9px;top:81px;background-position:-132px -460px;}
+#zone-r{right:9px;top:117px;background-position:-149px -460px;}
+#brand-zone .mc ul{overflow:hidden;width:495px;}
+#brand-zone .mc li{float:left;overflow:hidden;width:90px;height:60px;padding:0px 0px 10px 7px;text-align:center;}
+#brand-zone .mc li img{width:88px;height:31px;padding:5px 0px;}
+#brand-zone .mc li a{display:block;overflow:hidden;width:88px;height:60px;border:1px solid #E0E0E0;}
+/*new-price*/
+#new-price .mt{position:relative;width:210px;height:28px;background:#F2F2F2;text-indent:11px;}
+#new-price h2{line-height:28px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -41px;}
+#new-price .to-l,#new-price .to-r{display:block;position:absolute;top:0px;z-index:2;cursor:pointer;width:28px;height:28px;}
+#new-price .to-l{right:37px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -156px -430px;}
+#new-price .to-r{right:10px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -126px -430px;}
+#new-price .mc{height:290px;border:1px solid #D8D8D8;border-top:none;border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;}
+#new-price .mc li{clear:both;padding:9px 0px 9px 8px;border-top:1px solid #EFEFEF;}
+#new-price .p-img{display:block;float:left;margin-right:5px;}
+#new-price .p-name{width:120px;height:3em;line-height:1.5em;}
+#new-price .p-price{display:block;font-weight:bold;color:#EF0000;}
+#new-price .mc li.fore{border-top:none;}
+/*p-list*/
+.p-list{position:relative;}
+.p-list .mt{position:relative;z-index:1;height:40px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) repeat-x 0px -516px;}
+.p-list .mt b{display:block;float:right;width:2px;height:42px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -256px -129px;font-size:0px;}
+.p-list .mt em{position:absolute;z-index:3;width:208px;height:42px;}
+.p-list .mt h2{width:198px;padding-left:10px;color:#fff;line-height:42px;font-size:20px;}
+.p-list .extra{height:42px;line-height:42px;text-align:right;}
+.p-list .mt a{display:inline-block;height:13px;_margin-top:15px;padding:0 9px;border-left:1px solid #D2D2D2;line-height:14px;color:#666;}
+.p-list .mt a.fore{border:none;}
+.p-list .extra a.blue{color:#06c;}
+.p-list .mc{height:470px;padding:10px;border:1px solid #D8D8D8;border-top:none;border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;background:#fff;}
+.p-list .mc .l-con{float:left;overflow:hidden;width:200px;margin-left:-1px;}
+.p-list .mc .l-ad{height:400px;margin-bottom:10px;}
+.p-list .offer{position:relative;width:170px;padding:0px 15px 0px;}
+.p-list .offer .to-l,.p-list .offer .to-r{display:none;position:absolute;top:20px;cursor:pointer;width:6px;height:20px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat;}
+.p-list .offer .to-l{left:0px;background-position:-90px -463px;}
+.p-list .offer .to-r{right:0px;background-position:-119px -463px;}
+.p-list .offer .p-img{display:block;float:left;width:50px;height:50px;margin-right:5px;}
+.p-list .offer .p-name{float:left;overflow:hidden;width:115px;_width:110px;height:3em;margin-bottom:5px;line-height:1.5;}
+.p-list .offer .p-price{float:left;width:115px;height:1.5em;line-height:1.5em;}
+.p-list .r-con{float:right;overflow:hidden;width:200px;margin-right:-1px;}
+.p-list .r-con .r-ad{width:198px;height:108px;margin-bottom:10px;border:1px solid #E0E0E0;}
+.p-list .c-con{display:block;position:relative;margin:0px 200px 0px 203px;}
+.p-list .i-list li{overflow:hidden;float:left;width:162px;height:230px;margin-bottom:10px;padding-left:19px;text-align:center;}
+.p-list .i-list .p-img{margin-top:0px;border:1px solid #E0E0E0;}
+.p-list .i-list .p-name{height:3em;word-wrap:break-word;text-align:left;}
+.p-list .i-list .p-price{height:22px;margin-top:5px;text-align:left;}
+.p-list .line-l,.p-list .line-r{display:none;}
+#plist-1 .mt{border-bottom:2px solid #1075D1;}
+#plist-2 .mt{border-bottom:2px solid #D9139D;}
+#plist-3 .mt{border-bottom:2px solid #DE1919;}
+#plist-4 .mt{border-bottom:2px solid #7B16B8;}
+#plist-5 .mt{border-bottom:2px solid #8F8F8F;}
+#plist-6 .mt{border-bottom:2px solid #FF9B26;}
+#plist-7 .mt{border-bottom:2px solid #FF9B26;}
+#plist-1 .mt em{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -129px;}
+#plist-2 .mt em{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -172px;}
+#plist-3 .mt em{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -215px;}
+#plist-4 .mt em{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -258px;}
+#plist-5 .mt em{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -301px;}
+#plist-6 .mt em{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -344px;}
+#plist-7 .mt em{background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -48px -387px;}
+#plist-1 h2{background:#1186D6;}
+#plist-2 h2{background:#D9239A;}
+#plist-3 h2{background:#E71E2A;}
+#plist-4 h2{background:#9012B3;}
+#plist-5 h2{background:#AAA49E;}
+#plist-6 h2{background:#AE5512;}
+#plist-7 h2{background:#FD9930;}
+/*fonld*/
+.fold{overflow:hidden;float:right;width:343px;height:230px;margin-bottom:10px;padding-right:21px;}
+.fold li{float:none;clear:both;width:341px;height:30px;margin:0px 0px 5px;padding:0px;border:1px solid #E3E3E3;line-height:30px;text-align:left;vertical-align:middle;}
+.fold li .p-img{display:none;padding:0px;}
+.fold li .p-name{display:block;float:left;overflow:hidden;width:200px;height:30px;padding-right:10px;color:#666;}
+.fold li .p-price{height:30px;line-height:30px;font-weight:bold;color:#F70000;padding-top:0px;}
+.fold li b{display:inline-block;float:left;width:17px;height:23px;margin:3px 10px 4px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -26px -454px;}
+.fold li s{float:right;display:block;width:4px;height:7px;margin:11px 10px 0px 0px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -249px -445px;font-size:0px;}
+.fold .curr{clear:both;height:auto;}
+.fold .curr .p-img{display:block;clear:both;width:341px;height:160px;margin:0px;padding:0px;border-top:1px solid #E3E3E3;}
+.fold .curr .p-img img{width:341px;height:160px;}
+.fold .curr .p-name{display:block;overflow:hidden;width:200px;height:30px;}
+.fold .curr s{float:right;display:block;width:7px;height:4px;margin:11px 10px 0px 0px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -249px -438px;font-size:0px;}
+/*root61*/
+.root61 #slide{width:770px;}
+.root61 #bargain{width:770px;}
+.root61 #bargain h2{width:175px;}
+.root61 #bargain .mc{padding-left:20px;}
+.root61 #brands{width:770px;}
+.root61 #brand-zone{width:770px;}
+.root61 #brand-zone .mc{padding:8px 29px 0;}
+.root61 #brand-zone .mc ul{width:710px;}
+.root61 #brand-zone .mc li{margin:0px;padding:0 0 10px 10px;}
+.root61 .p-list .c-con{margin:0px 222px;}
+.root61 .p-list .line-l,.root61 .p-list .line-r{display:block;position:absolute;top:50px;width:1px;height:437px;background:url(http://misc.360buyimg.com/product/skin/2011/i/icon_sprites.jpg) no-repeat -45px 0px;font-size:0px;}
+.root61 .p-list .line-l{left:230px;}
+.root61 .p-list .line-r{right:230px;}
+.root61 #i-brands{padding:0 35px;}
+.root61 .fold{width:342px;padding-right:22px;}
+.root61 .fold li{width:341px;}
+.root61 .fold .curr .p-img{display:block;width:341px;}
+.root61 .fold .curr .p-img img{width:341px;}

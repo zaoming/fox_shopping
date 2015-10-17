@@ -1,0 +1,54 @@
+/* step - ui */
+.ui_step{width:950px; height:42px; margin-bottom:20px; background:url(../images/common_v2/sprite_step.png) no-repeat 0 0; color:#999;}
+.ui_step_on_1{background-position:0 0;}
+.ui_step_on_2{background-position:0 -42px;}
+.ui_step_on_3{background-position:0 -84px;}
+.ui_step_1,
+.ui_step_2,
+.ui_step_3{float:left; width:316px; height:42px; line-height:42px; text-align:center; font-size:14px; font-weight:bold;}
+.ui_step_num{display:inline-block; *display:inline; zoom:1; width:21px; height:21px; margin-right:10px; background:url(../images/common_v2/sprite_step.png) no-repeat 0 -126px; vertical-align:middle;}
+.ui_step_num span{display:none;}
+.ui_step_num_1{background-position:0 -126px;}
+.ui_step_num_2{background-position:-21px -126px;}
+.ui_step_num_3{background-position:-42px -126px;}
+.ui_step_on .ui_step_num_1{background-position:-63px -126px;}
+.ui_step_on .ui_step_num_2{background-position:-84px -126px;}
+.ui_step_on .ui_step_num_3{background-position:-105px -126px;}
+.ui_step_complete .ui_step_num{background-position:-126px -126px;}
+.ui_step_name{display:inline-block; *display:inline; zoom:1; vertical-align:middle;}
+.ui_step_on .ui_step_name,
+.ui_step_complete .ui_step_name{color:#333;}
+
+.service_main{float:left; width:640px; padding:0 0 0 150px; border:none;}
+.service_main .main_nav{position:absolute; top:0; left:0; width:149px; border:1px solid #cfcfcf; border-right:none; border-radius:2px 0 0 2px;}
+.service_main .main_nav li{display:block; position:relative; height:40px; line-height:40px; border-top:1px solid #fff; border-bottom:1px solid #cfcfcf;}
+.service_main .main_nav li:first-child{border-top:none;}
+.service_main .main_nav li:last-child{border-bottom:none;}
+.service_main .main_nav li a{display:block; height:40px; line-height:40px; padding-left:20px; font-size:14px; background:#f4f4f4;}
+.service_main .main_nav li a:hover{text-decoration:none; background:#fcfcfc;}
+.service_main .main_nav li.cur{*margin-bottom:-3px;}
+.service_main .main_nav li.cur a{position:absolute; top:0; left:0; width:150px; border-left:4px solid #f60; padding-left:16px; color:#f60; font-weight:bold; background:#fff;}
+.service_main .main_cont{/*min-height:500px; _height:expression(this.scrollHeight<500?"500px":"auto");*/ border:1px solid #cfcfcf; border-radius:0 2px 2px 2px; padding:0 20px 20px;}
+
+.service_result{position:relative; margin-left:300px; padding:80px 0;}
+.service_result .ui_mibi{top:20px; right:20px;}
+.service_result .result_img{position:absolute; top:50px; left:-220px;}
+.service_result .result_tips{display:inline-block; *display:inline; zoom:1; position:relative; margin-top:10px; color:#999;}
+.service_result .result_tips .ui_btn_small{position:absolute; top:0; right:-100px;}
+.service_result .result_txt,
+.service_result .result_list{margin-top:40px; font-size:14px;}
+.service_result .result_list li{display:block; position:relative; padding-left:100px; line-height:30px; zoom:1;}
+.service_result .result_list li label{display:block; position:absolute; top:2px; left:0; width:100px; text-align:right;}
+.service_result .result_list img{vertical-align:middle; margin-right:8px;}
+.service_result .result_list span{display:inline-block; *display:inline; zoom:1; vertical-align:middle;}
+.service_result .result_txt{color:#f60;}
+.service_result .result_caption{margin-top:40px;}
+.service_result .result_caption b,
+.service_result .result_caption a{color:#f60;}
+.service_result .result_btns{margin-top:40px;}
+.service_result .result_btns .ui_btn_large_em{margin-right:30px;}
+.service_result .result_ad{position:absolute; top:86px; right:20px; width:150px; height:300px;}
+.service_result .result_ad_link{display:block; position:absolute; top:0; right:0; width:150px; height:300px; z-index:2;}
+.service_result .result_ad_link a{display:block; width:150px; height:300px; background:#000; opacity:0; filter:alpha(opacity=0); _background:url(../images/common_v2/bg_transparent.png) 0 0;}
+.service_result .result_ad_link a span{display:none;}
+.service_result .result_ad_flash{position:relative; z-index:1;}

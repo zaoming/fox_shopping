@@ -1,0 +1,66 @@
+@charset "gb2312";
+.o-mt .extra{float:right;padding-right:15px}
+.right .search-01 .item{margin-bottom:0}
+*html .search-01 .bti{margin-top:0}
+.right .prompt-01{position:absolute;padding:9px}
+#myorder .prompt-01,#tb-olists .prompt-01{width:342px;left:-350px;top:-39px}
+#myorder .prompt-01 .pc,#tb-olists .prompt-01 .pc{border:1px solid #ffe6bc;background:#fff;padding:10px;color:#333;text-align:left;overflow:hidden;min-height:235px;}
+*html #myorder .prompt-01 .pc,*html #tb-olists .prompt-01 .pc{height:235px;zoom:1; overflow:visible}
+#myorder .prompt-01 .pc li a,#tb-olists .prompt-01 .pc li a{color:#333;text-decoration:none}
+#myorder .prompt-01 .pc dl,#tb-olists .prompt-01 .pc dl{border-bottom:1px solid #d7d6d6;line-height:16px;overflow:hidden;margin-bottom:5px}
+#myorder .prompt-01 .pc dt,#myorder .prompt-01 .fore1,#tb-olists .prompt-01 .pc dt,#tb-olists .prompt-01 .fore1{width:140px;float:left}
+#myorder .prompt-01 .fore1,#tb-olists .prompt-01 .fore1{min-height:15px;_height:15px}
+#myorder .prompt-01 .fore2,#tb-olists .prompt-01 .fore2{float:left;width:180px}
+#myorder .tb-void .order-doi{padding-top:15px;padding-bottom:15px}
+.right .prompt-01 .pb{top:35px;right:0}
+a.tooltip:link,a.tooltip:hover,a.tooltip:visited{position:relative;display:block;text-decoration:none;width:100%;z-index:2;}
+.tooltip s,.tooltip i{display:inline-block;line-height:0;font-size:0;height:0;overflow:hidden;vertical-align:middle;}.tooltip s{margin-left:2px;border:4px dashed;border-color:#005a9d transparent transparent;border-top-style:solid}#myorder .tooltip i{width:16px;height:16px;background:url(i/date.png) 0 -14px;margin-right:3px;}
+.td-01{background:#ffffcc}.td-02{background:#fffdee;color:#666666;}
+a.btn-again {background: url(i/use.gif);display: block;height: 21px;line-height: 100px; margin: 3px auto 0;overflow: hidden;width: 72px;}
+a.btn-again:hover{background-position:0 -21px}
+#reco{border:1px solid #e6e6e6;}
+#reco .mt{padding-left:15px;margin-bottom:6px;height:32px;line-height:32px;}
+#reco .mt h2{color:#cc0000;float:left}
+#reco .mt .extra{padding-right:10px}
+.reco-l div,.reco-r div{background:url(i/lr.jpg) no-repeat;width:34px;height:37px;cursor:pointer;}
+.reco-l{float:left;padding-top:90px}
+.reco-r{float:right;padding-top:90px}
+.reco-r div{background-position:-34px 0}
+.i-reco{float:left;width:704px;}
+#reco .mc{height:250px;overflow:hidden;padding:0 15px;text-align:center}
+.i-reco .list-h{text-align:center}
+.i-reco .list-h li{width:176px;float:left;}
+.i-reco .list-h li .p-name{padding:0 10px}
+.i-reco .list-h li .p-name a:link,.i-reco .list-h li .p-name a:visited{color:#222}
+.i-reco .list-h li .p-img img{display:inline}
+.i-reco .list-h li .extra a{color:#005AA0}
+.img-list{margin-left:-4px}
+.img-list a{border:1px solid #e1e1e1;float:left;margin-left:4px;margin-bottom:4px}
+.img-list a:hover{border-color:#EDD28B}
+.img-list img{width:50px;height:50px}
+#myorder,#myorder .mt,#myorder .mc,#myorder .tb-void,#tb-olists,#tb-olists .mt,#tb-olists .mc,#tb-olists .tb-void{overflow:visible}
+#myorder .btn-4{margin-bottom:4px}
+.tb-void .img-list{ overflow:hidden;margin-bottom:-4px;margin-bottom:0\9}
+.tb-void .close{position:absolute;right:3px;top:3px;background:url(i/icon.gif) -81px -41px;width:19px;height:19px}
+#tb-auction .img-list{width:56px}
+#tb-diy .img-list{width:224px}
+#tb-cancel .tooltip{width:100px;}#tb-cancel .tooltip .prompt-01{width:225px;left:-140px;top:25px;z-index:1}*html #tb-cancel .tooltip .prompt-01 .pc{zoom:1}#tb-cancel .tooltip .prompt-01 .pb{top:-19px;left:190px}#tb-cancel .tooltip i{font-size:0;line-height:0;overflow:hidden;border:4px dashed transparent;border-top:4px solid #005ea7;margin-left:3px;*zoom:1;}#tb-cancel .tb-void,#tb-cancel,#tb-cancel .mc{ overflow:visible}#tb-cancel .img-list{width:225px}.prev-disabled{z-index:-1}#tb-cancel a.tooltip:link,#tb-cancel a.tooltip:hover,#tb-cancel a.tooltip:visited{color:#999}
+#miaozhen10772 img{width:830px}
+.icon-succ03,.icon-warn03{display:inline-block;*zoom:1;font-size:0;line-height:0;overflow:hidden;background:url(i/icon-msg.png) no-repeat;width:32px;height:32px; vertical-align:top;margin-right:10px;float:left}
+.icon-succ03{background-position:-64px 0}
+.mrefund .mc{padding:10px 30px}
+.mrefund .fore{margin-left:40px;padding-top:10px}
+.mrefund h3,.mrefund p,.mrefund .item{margin-bottom:10px}
+.mrefund .btns{text-align:center;padding-top:5px}
+.mrefund .btn{margin:0 5px;font-weight:normal;font-size:12px}
+.mrefund p .check{position:relative;top:2px}
+.btns01{padding-left:90px}
+.mrefund .form{zoom:1}
+.mrefund .area{color:#ccc;margin-left:0px}
+.mrefund .list-h li{width:180px;float:left;height:25px;line-height:25px}
+.right a.im{background:url(i/imon.gif);display:block;width:100px;height:24px;line-height:24px;padding-left:31px;color:#fff;position:relative;top:5px}
+.right a.im:hover{text-decoration:none}
+.right a.im:visited{color:#fff}
+.right a.imoff{background:url(i/im.gif);cursor:default}
+.o-info{text-align:left;margin-left:60px}
+.o-info a{border:none;float:none;margin:0}

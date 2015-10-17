@@ -1,0 +1,229 @@
+#choose {
+    background: none repeat scroll 0 0 #FFFCEB;
+    border: 1px solid #EED97C;
+    color: #B94708;
+    float: right;
+    overflow: visible;
+    width: 398px;
+}
+#choose dl {
+    border-bottom: 1px dotted #EED97C;
+    overflow: hidden;
+    padding: 10px 8px;
+}
+#choose dt {
+    float: left;
+}
+#choose dd {
+    float: left;
+    overflow: hidden;
+}
+#choose dd div {
+    float: left;
+    margin-right: 10px;
+}
+#choose dd a {
+    background: none repeat scroll 0 0 #FFFFFF;
+    float: left;
+}
+#choose dl.color dt {
+    line-height: 54px;
+}
+#choose dl.color a:link, #choose dl.color a:visited {
+    border: 1px solid #CCCCCC;
+    padding: 1px;
+}
+#choose dl.color a:hover, #choose dl.color a:active {
+    border: 1px solid #FF8500;
+}
+#choose dl.color .selected a:link, #choose dl.color .selected a:visited {
+    border: 2px solid #FF8500;
+    padding: 0;
+}
+#choose dl.size dt {
+    line-height: 24px;
+}
+#choose dl.size a:link, #choose dl.size a:visited {
+    border: 1px solid #CCCCCC;
+    padding: 2px 5px;
+}
+#choose dl.size a:hover, #choose dl.size a:active {
+    border: 1px solid #FF8500;
+}
+#choose dl.size .selected a:link, #choose dl.size .selected a:visited {
+    border: 2px solid #FF8500;
+    padding: 1px 4px;
+}
+#choose .amount dt {
+    line-height: 22px;
+}
+#choose .amount dd {
+    padding: 0 20px;
+    position: relative;
+    width: 32px;
+}
+#choose .amount a:link, #choose .amount a:visited {
+    border: 1px solid #DBDBDB;
+    display: block;
+    font-family: arial;
+    height: 13px;
+    line-height: 13px;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    top: 3px;
+    width: 13px;
+}
+#choose .amount a:hover, #choose .amount a:active {
+    border: 1px solid #989898;
+}
+#choose .amount input {
+    border: 1px solid #989898;
+    height: 18px;
+    line-height: 18px;
+    padding: 0;
+    text-align: center;
+    width: 30px;
+}
+#choose .amount .reduce {
+    left: 0;
+}
+#choose .amount .add {
+    right: 0;
+}
+#choose .result {
+    padding: 10px 8px 0;
+}
+#choose .btns {
+    padding: 10px 0 10px 7px;
+}
+#choose .btns a {
+    color: #005AA0;
+}
+#choose .btn-subsidies, #choose .btn-append, #choose .btn-divide, #choose .btn-coll, #choose .btn-notice, #choose .btn-easy {
+    cursor: pointer;
+    float: left;
+    font-size: 12px;
+    margin-right: 6px;
+    overflow: hidden;
+}
+#choose .btn-subsidies {
+    background: url("i/btn2012062701.png") no-repeat scroll 0 0 transparent;
+    height: 38px;
+    line-height: 100px;
+    margin-top: 1px;
+    width: 140px;
+}
+#choose .btn-append {
+    background-position: 0 -122px;
+    display: block;
+    height: 40px;
+    line-height: 100px;
+    margin-right: 5px;
+    width: 138px;
+}
+#choose a.btn-appendsmall {
+    background: url("i/btn20120717A.jpg") no-repeat scroll 0 0 transparent;
+    color: #333333;
+    cursor: pointer;
+    float: left;
+    font-size: 12px;
+    height: 30px;
+    line-height: 30px;
+    margin: 7px 6px 0 0;
+    text-align: center;
+    width: 80px;
+}
+#choose a.btn-appendsmall:hover {
+    text-decoration: none;
+}
+#choose .btn-divide {
+    background-position: 0 -303px;
+    border: 0 none;
+    height: 30px;
+    margin-bottom: 3px;
+    margin-top: 7px;
+    padding: 4px 0 4px 22px;
+    width: 94px;
+}
+#choose .btns .btn-notice {
+    background: url("i/btn_notice.jpg") no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    height: 20px;
+    line-height: 22px;
+    margin-top: 7px;
+    padding: 4px 0;
+    text-align: center;
+    width: 78px;
+}
+#choose .btn-coll {
+    background-position: -143px -169px;
+    border: 0 none;
+    color: transparent;
+    font-size: 0;
+    height: 30px;
+    line-height: 100px;
+    margin-top: 7px;
+    padding: 4px 0 4px 18px;
+    width: 68px;
+}
+#choose .btn-0yuan {
+    background-position: 0 -202px;
+    float: left;
+    height: 40px;
+    line-height: 100px;
+    margin-right: 5px;
+    overflow: hidden;
+    width: 102px;
+}
+#choose .btn-enternet {
+    background-position: 0 -81px;
+    float: left;
+    height: 40px;
+    line-height: 100px;
+    margin-right: 5px;
+    overflow: hidden;
+    width: 145px;
+}
+#choose .btn-easy {
+    background-position: 0 -147px;
+    border: 0 none;
+    height: 40px;
+    line-height: 100px;
+    overflow: hidden;
+    width: 87px;
+}
+#choose .btn-buyitnow {
+    background-position: 0 -163px;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 12px;
+    height: 38px;
+    line-height: 100px;
+    margin-bottom: 2px;
+    margin-right: 5px;
+    overflow: hidden;
+    width: 137px;
+}
+a:visited {
+    border: 1px solid #DBDBDB;
+    display: block;
+    font-family: arial;
+    height: 13px;
+    line-height: 13px;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    top: 3px;
+    width: 13px;
+}
+#choose .amount .add {
+    right: 0;
+}
+#choose dd a {
+    background: none repeat scroll 0 0 #FFFFFF;
+    float: left;
+}

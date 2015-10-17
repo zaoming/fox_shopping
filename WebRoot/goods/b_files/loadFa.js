@@ -1,0 +1,1 @@
+ (function(){var ads=[];var rate=[1];asyncScript(function(){setRandomAds(ads,rate,"da211x261-1",false);})})();$("a").bind("mouseover",function(){var b=this.href;if(b&&b.match(/http:\/\/www.360buy.com\/product\/\d+\.html/)){return false}});

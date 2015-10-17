@@ -1,0 +1,1 @@
+jdRecent.setData({'name':'%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89S5830I%203G%e6%89%8b%e6%9c%ba%ef%bc%88%e7%8e%9b%e7%91%99%e9%bb%91%ef%bc%89WCDMA%2fGSM','url':'http://www.360buy.com/product/576911.html','img':'http://img11.360buyimg.com/n5/g1/M04/04/13/rBEGDk-qT0oIAAAAAAGaCz96vdEAAA5ywLUFBQAAZoj706.jpg'})

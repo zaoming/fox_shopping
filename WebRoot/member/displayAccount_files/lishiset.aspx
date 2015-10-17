@@ -1,0 +1,1 @@
+jdRecent.setData({'name':'%e8%8b%b9%e6%9e%9c%ef%bc%88APPLE%ef%bc%89iPhone%204S%2016G%e7%89%88%203G%e6%89%8b%e6%9c%ba%ef%bc%88%e7%99%bd%e8%89%b2%ef%bc%89WCDMA%2fGSM','url':'http://www.360buy.com/product/570129.html','img':'http://img14.360buyimg.com/n5/858/3ebc8f60-b924-4d1b-af32-b4ac2f8408cf.jpg'})

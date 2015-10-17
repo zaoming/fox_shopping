@@ -1,0 +1,1 @@
+jdRecent.setData({'name':'%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89Galaxy%20S3%20I9308%203G%e6%89%8b%e6%9c%ba%20(%e4%ba%91%e7%9f%b3%e7%99%bd)%20TD-SCDMA%2fGSM','url':'http://www.360buy.com/product/656206.html','img':'http://img11.360buyimg.com/n5/g5/M02/00/19/rBEIC0-_J5AIAAAAAAFXNd_SpUEAAAJ_wBRAXYAAVdN166.jpg'})

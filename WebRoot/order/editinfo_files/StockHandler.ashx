@@ -1,0 +1,1 @@
+getProvinceStockCallback({stock:{"StockState":33,"StockStateName":"\u73B0\u8D27","PopType":0,"IsPurchase":false,"D":null}})
